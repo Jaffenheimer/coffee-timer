@@ -7,8 +7,8 @@ Basic timer for tracking when to get coffee
 
 # Usage
 
-## Get coffee every 25 minutes
-```./coffee-timer 25m```
+## Get coffee every X minutes
+```./coffee-timer Xm```
 
 ## Only run it once
 ```./coffee-timer --once 25m```
