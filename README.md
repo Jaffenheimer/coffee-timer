@@ -3,7 +3,7 @@ Basic timer for tracking when to get coffee
 
 # Compilation
 
-```gcc -O2 -Wall -Wextra -o coffee-timer coffee_timer.c```
+```gcc -O2 -Wall -Wextra -o coffee-timer coffee.c```
 
 # Usage
 
